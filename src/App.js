@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+
 import './App.css';
 
+import Gradnik from './Gradnik.js';
+
 function App() {
+    function dolf(num){
+        return num-2;
+    }
+    function gorf(num){
+        return num+2;
+    }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Spizdi.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Gradnik gor="count up" dol="count down" gorf={(num)=> num+2} dolf={dolf}/>
+        <Gradnik gor="square" dol="root" gorf={(num)=> num*num} dolf={(num)=> Math.sqrt(num)}/>
     </div>
   );
 }
