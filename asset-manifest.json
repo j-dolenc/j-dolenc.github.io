@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/j-dolenc.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/j-dolenc.github.io/static/js/main.8a7f9f1e.chunk.js",
+    "main.js.map": "/j-dolenc.github.io/static/js/main.8a7f9f1e.chunk.js.map",
+    "runtime-main.js": "/j-dolenc.github.io/static/js/runtime-main.761c5e79.js",
+    "runtime-main.js.map": "/j-dolenc.github.io/static/js/runtime-main.761c5e79.js.map",
+    "static/js/2.4533f870.chunk.js": "/j-dolenc.github.io/static/js/2.4533f870.chunk.js",
+    "static/js/2.4533f870.chunk.js.map": "/j-dolenc.github.io/static/js/2.4533f870.chunk.js.map",
+    "static/js/3.18fc6d42.chunk.js": "/j-dolenc.github.io/static/js/3.18fc6d42.chunk.js",
+    "static/js/3.18fc6d42.chunk.js.map": "/j-dolenc.github.io/static/js/3.18fc6d42.chunk.js.map",
+    "index.html": "/j-dolenc.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/j-dolenc.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4533f870.chunk.js.LICENSE.txt": "/j-dolenc.github.io/static/js/2.4533f870.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.761c5e79.js",
+    "static/js/2.4533f870.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8a7f9f1e.chunk.js"
+  ]
+}
